@@ -1,6 +1,6 @@
 ---
-title: "THE TITLE"
-shorttitle: "THE SHORT TITLE"
+title: "Interpreting Experience Mediates Recruitment of Early Intonational Cues to Sentence Modality: An Eye Tracking Study"
+shorttitle: "Interpreting Experience Mediates Recruitment of Early Intonational Cues to Sentence Modality: An Eye Tracking Study"
 author:
   - name: Robert Esposito
     corresponding: true

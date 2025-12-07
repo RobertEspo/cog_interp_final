@@ -1,3 +1,9 @@
 Early cues to sentence modality in Spanish.
 Using intonation to predict.
 Interpreters use-specific basis.
+
+bartlomiejczyk2006strategies 
+pochhacker2016unity
+most interpretation strategy research focuses on anticipation.
+
+

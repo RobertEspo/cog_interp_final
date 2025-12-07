@@ -1,0 +1,9 @@
+project:
+  title: "Interpreting Experience Mediates Recruitment of Early Intonational Cues to Sentence Modality: An Eye Tracking Study"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/cog_interp_final.bib
+csl: ./lit/apa.csl
